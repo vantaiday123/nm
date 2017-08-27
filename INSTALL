@@ -1,0 +1,9 @@
+Building NelsonMandela
+
+See doc/readme-qt.rst for instructions on building NelsonMandela QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of NelsonMandela.
+
+See doc/build-*.txt for instructions on building nelsonmandelad,
+the intended-for-services, no-graphical-interface, reference
+implementation of NelsonMandela.
